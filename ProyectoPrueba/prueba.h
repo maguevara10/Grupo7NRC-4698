@@ -5,7 +5,9 @@
 
 using namespace std;
 
-int main()
+class prueba
 {
-    cout<<"Colombia le ganó a Ecuador muajajajajaja."<<endl;
-}
+    private:
+        int x;
+        float y;
+};
