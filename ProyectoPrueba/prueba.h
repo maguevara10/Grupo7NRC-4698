@@ -9,4 +9,5 @@ class prueba
 {
     private:
         int x;
+        float y;
 };
