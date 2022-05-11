@@ -5,7 +5,7 @@
 
 using namespace std;
 
-class prueba()
+class prueba
 {
     private:
         int x;
