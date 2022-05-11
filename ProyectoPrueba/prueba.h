@@ -5,3 +5,8 @@
 
 using namespace std;
 
+class prueba()
+{
+    private:
+        int x;
+};
