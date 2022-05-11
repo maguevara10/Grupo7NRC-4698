@@ -5,3 +5,7 @@
 
 using namespace std;
 
+int main()
+{
+    cout<<"Colombia le ganó a Ecuador muajajajajaja."<<endl;
+}
